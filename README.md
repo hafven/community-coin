@@ -22,8 +22,10 @@ Der Coin soll folgende Eigenschaften haben:
 
 So könnte der Ledger für den Coin aussehen:
 
-Transaktion ID // Sender // Receiver // Coin Amount // Coin Creation Date // Coin Half-Life // Hash       //
-------------------------------------------------------------------------------------------------------------
+*Transaktion ID // Sender // Receiver // Coin Amount // Coin Creation Date // Coin Half-Life // Hash       //*
+
 01             // Max    // Marie    //     5       // 05.01.2019         //   120days      // A2J30EL    //
+
 02             // Max    // Robert   //     7       // 05.01.2019         //   120days      // JNORL93    //
+
 03             // Robert // Marie    //     10      // 05.01.2019         //   120days      // I38JRNM    //
