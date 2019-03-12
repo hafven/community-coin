@@ -29,3 +29,8 @@ So könnte der Ledger für den Coin aussehen:
 02             // Max    // Robert   //     7       // 05.01.2019         //   120days      // JNORL93    //
 
 03             // Robert // Marie    //     10      // 05.01.2019         //   120days      // I38JRNM    //
+
+# Ressources
+
+Create an ERC20 Token in less than a minute 
+https://medium.com/@vittominacori/create-an-erc20-token-in-less-than-a-minute-2a8751c4d6f4
